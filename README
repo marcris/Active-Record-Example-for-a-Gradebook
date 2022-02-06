@@ -15,3 +15,5 @@ the data in 'testdata.sql'. Now try out some of these:
 
 It is a useful exercise to uncomment line 68 of model.py to enable logging and
 see the SQL that the program executes to fulfill these requests.
+
+This branch was forked to preserve the current state as a basis for marcris/active-record-mc.
